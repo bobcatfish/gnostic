@@ -1,4 +1,5 @@
 // +build !appengine
+// +build ignore
 
 // This file is omitted when the app is built for Google App Engine
 

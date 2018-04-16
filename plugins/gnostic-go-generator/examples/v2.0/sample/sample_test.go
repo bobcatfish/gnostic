@@ -1,3 +1,6 @@
+// +build ignore
+// This file is omitted when getting with `go get github.com/googleapis/gnostic/...`
+
 /*
  Copyright 2018 Google Inc. All Rights Reserved.
 

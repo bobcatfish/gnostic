@@ -1,6 +1,8 @@
 // +build !appengine
-
 // This file is omitted when the app is built for Google App Engine
+
+// +build ignore
+// This file is omitted when getting with `go get github.com/googleapis/gnostic/...`
 
 /*
  Copyright 2018 Google Inc. All Rights Reserved.
